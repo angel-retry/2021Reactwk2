@@ -81,30 +81,4 @@ footer .container p{color:#858585; text-align: center; margin-top: 20px;}
     .flavor p{font-size:1rem;}
     .btn_flavor img{width: 55px;height: 55px;}
 }
-@media screen and (max-width: 426px) {
-    .chocolate_bg{background-image:url('../img/chocolate/bg_chocolate_s.png');width:100%;background-repeat: no-repeat;}
-    .bg_text{width: 283px;height: 434px;margin-top:200px;}
-    .bg_text p{padding:30px;width: 395.6px;height: 434px;font-size: 1.2rem;}
-    .bg_chocolate img{display: none;}
-    content{display:inline;margin-top:0px;}
-    .chocolate_h1 img{width:277px;height:91px;}
-    .flavor p{font-size:1rem;}
-    .btn_flavor{padding-bottom:30px;}
-    .btn_flavor img{width: 55px;height: 55px;}
-}
-@media screen and (max-width: 376px) {
-    .chocolate_bg{background-image:url('../img/chocolate/bg_chocolate_s.png');width:100%;background-repeat: no-repeat;}
-    .bg_text{width: 283px;height: 434px;margin-top:200px;}
-    .bg_text p{padding:30px;width: 345.2px;height: 434px;font-size: 1.2rem;}
-    .bg_chocolate img{display: none;}
-    .btn_flavor img{width: 65px;height: 65px;}
-    content{display:inline;margin-top:0px;}
-    .chocolate_h1 img{width:277px;height:91px;}
-    .flavor p{font-size:1rem;}
-    .btn_flavor{padding-bottom:30px;}
-    .btn_flavor img{width: 55px;height: 55px;}
-}
-@media screen and (max-width:320px){
-    .bg_text p{padding:30px;width:290px;height: 450px;font-size: 1rem;}
-    .flavor{margin-top:20px;}
-}
+
